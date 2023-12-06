@@ -42,3 +42,7 @@ O requisito final envolve colocar a rede em produção de forma semelhante ao ex
 - [Emanoel Batista](https://github.com/EmanoelBatista)
 - [Yan Tavares](https://github.com/yantvrs)
 
+### Vídeo explicativo 🔗
+
+Para acessar a o vídeo, basta clicar [aqui](https://www.loom.com/share/69006bf866824739a68dfc7ec51541dc)
+
