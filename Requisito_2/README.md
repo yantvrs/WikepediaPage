@@ -11,8 +11,13 @@ Conjunto de cores para auxiliar no entendimento dos grafos. Quanto mais próximo
 ![Legenda de cores](https://github.com/yantvrs/Data_structure_2/blob/main/U2T3/Requisito_2/images/image.png)
 
 ## Degree_Centraliy
-![Degree_Centraliy](https://github.com/yantvrs/Data_structure_2/blob/main/U2T3/Requisito_2/images/degree_centraliy.png)
 Refere-se ao número de conexões que um nó possui na rede. Quanto maior o grau de um nó, mais conexões ele possui. Na centralidade de grau, um nó com alto grau é considerado mais central na rede.
+![Degree_Centraliy](https://github.com/yantvrs/Data_structure_2/blob/main/U2T3/Requisito_2/images/degree_centraliy.png)
+### Interpretação:
+- Os nós azuis, representados por Demographics Of Brazil, São Paulo, Empire Of Brazil e Immigration, foram identificados como desempenhando papéis centrais na rede. Esses elementos têm um alto grau de centralidade, sugerindo uma extensa rede de conexões. Em termos práticos, esses nós podem representar conceitos fundamentais e entidades de grande importância para o Brasil, como dados demográficos, a cidade de São Paulo, o Império do Brasil e questões de imigração.
+- Os nós brancos, incluindo Fifa World Cup, Switzerland e Olympic Games, têm um grau de centralidade mais baixo. Isso indica uma quantidade menor de conexões na rede, sugerindo que esses elementos são mais periféricos. Na prática, eles podem representar eventos ou entidades relacionados ao Brasil de maneira menos central, como a Copa do Mundo da FIFA, a Suíça e os Jogos Olímpicos.
+
+
 
 ## Closeness_Centraliy
 ![Closeness_Centraliy](https://github.com/yantvrs/Data_structure_2/blob/main/U2T3/Requisito_2/images/closeness_centraliy.png)
