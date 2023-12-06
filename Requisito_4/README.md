@@ -1,4 +1,4 @@
-# Requisito #04 -  📊🌐
+# Requisito #04 - Geração do grafo no gephi 📊🌐
 
 ## Descrição
 
