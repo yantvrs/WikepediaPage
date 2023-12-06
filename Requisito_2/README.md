@@ -27,7 +27,7 @@ Mede a distância média de um nó para todos os outros nós na rede. Quanto mai
 
 ## Betweenness_Centraliy
 Avalia o quanto um nó atua como ponte entre outros nós na rede. Nós com alta centralidade de intermediação têm um papel crucial na comunicação entre diferentes partes da rede. São como "pontes" importantes para o fluxo de informações.
-![Betweenness_Centraliy](https://github.com/yantvrs/Data_structure_2/blob/main/U2T3/Requisito_2/images/betweenness_centraliy.png)
+![Betweenness_Centraliy](https://github.com/yantvrs/WikepediaPage/blob/main/Requisito_2/images/betweenness_centraliy.png)
 ### Interpretação:
 - O nó Brazil, em azul, destaca-se com uma Betweenness Centrality mais alta. Isso indica que este nó atua como uma ponte crucial entre outros nós na rede. Na prática, o Brazil desempenha um papel significativo na comunicação e no fluxo de informações entre diferentes partes da rede. Sua posição sugere uma importância central na interconexão de outros elementos.
 - Os nós Rio De Janeiro e Fifa World Cup têm uma centralidade de intermediação significativa, embora não estejam em azul. Isso sugere que eles também desempenham papéis importantes como pontes na comunicação entre diferentes partes da rede. Apesar de não atingirem a mesma importância que o Brazil, ainda são elementos-chave para o fluxo de informações.
