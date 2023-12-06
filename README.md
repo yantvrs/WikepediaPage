@@ -22,9 +22,9 @@ O objetivo deste requisito é gerar uma figura semelhante à rede construída, c
 
 Neste requisito, a tarefa é gerar uma figura no Gephi destacando o k-core e o k-shell da rede.
 
-### [Requisito #05](https://github.com/yantvrs/Data_structure_2/tree/main/U2T3/Requisito_5) 🔗
+### [Requisito #05](https://yantvrs.github.io/WikepediaPage/network/) 🔗
 
-O requisito final envolve colocar a rede em produção de forma semelhante ao explicado na Semana 12. 
+O requisito final envolve colocar a rede em produção de forma semelhante ao explicado na Semana 12. Para acessar a rede, basta clicar [aqui](https://yantvrs.github.io/WikepediaPage/network/)
 
 ## Instruções de Execução em Python 🐍
 
