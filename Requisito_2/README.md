@@ -22,6 +22,11 @@ Refere-se ao número de conexões que um nó possui na rede. Quanto maior o grau
 ## Closeness_Centraliy
 Mede a distância média de um nó para todos os outros nós na rede. Quanto mais próximo um nó está de todos os outros nós, maior é a sua centralidade de proximidade. É útil para identificar nós que podem alcançar rapidamente outros nós na rede.
 ![Closeness_Centraliy](https://github.com/yantvrs/Data_structure_2/blob/main/U2T3/Requisito_2/images/closeness_centraliy.png)
+## Interpretação:
+- Os nós azuis, representados por United Nations Department Of Economic And Social Affairs, Beira Alta Province, Recife e Miller Atlas, se destacam com uma Closeness Centrality maior. Isso indica que esses nós estão, em média, mais próximos de todos os outros nós na rede. Na prática, esses elementos podem ser considerados como pontos centrais que podem alcançar rapidamente outros nós na rede. Eles desempenham um papel crucial na conectividade eficiente do grafo.
+- Os demais nós, que estão mais próximos da cor branca, têm uma Closeness Centrality menor. Isso sugere que esses nós estão, em média, mais distantes dos outros na rede. Embora possam ter conexões, sua capacidade de atingir rapidamente outros nós pode ser menor em comparação com os nós azuis.
+Essa análise fornece insights sobre a eficiência na capacidade de alcance dos nós na rede, destacando aqueles que são centralmente posicionados para uma rápida interação com outros nós.
+
 
 
 ## Betweenness_Centraliy
