@@ -11,7 +11,7 @@ Neste requisito, a tarefa é gerar uma figura no Gephi destacando o k-core e o k
 2. **k-shell:**
    - **Definição:** O k-shell de um grafo é uma camada específica onde os nós têm pelo menos grau k, mas não necessariamente todos os nós precisam ter o mesmo grau.
    - **Aplicação ao Grafo:** O k-shell com um valor de 195 indica que os nós nessa camada específica têm pelo menos 195 conexões, mas a distribuição exata dos graus pode variar.
-   - 
+     
 ![requisito_4](https://github.com/yantvrs/WikepediaPage/blob/main/Requisito_4/requisito4.png)
 
 **A combinação destes dois conceitos permite uma análise mais profunda da estrutura da rede. Ao representar o k-core em vermelho, o k-shell em azul e os nós não pertencentes a nenhum desses grupos em preto, o grafo proporciona uma visualização clara das regiões altamente conectadas e centralizadas, destacando áreas específicas de importância na rede.**
