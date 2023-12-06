@@ -37,4 +37,12 @@ Avalia o quanto um nó atua como ponte entre outros nós na rede. Nós com alta 
 ## Eigenvector_Centraliy
 Considera a importância de um nó levando em conta a importância dos seus vizinhos. Nós com alta centralidade de autovetor são influentes, não apenas por terem muitas conexões, mas também por estarem conectados a outros nós importantes. É uma medida de influência global na rede.
 ![Eigenvector_Centraliy](https://github.com/yantvrs/Data_structure_2/blob/main/U2T3/Requisito_2/images/eigenvector_centraliy.png)
+## Interpretação:
+- O nó Brazil, em azul, destaca-se com uma Eigenvector Centrality mais alta. Isso indica que este nó não é apenas influente devido ao número de suas conexões, mas também por estar conectado a outros nós importantes na rede. Em termos práticos, o Brazil exerce uma influência global significativa na rede, sendo central e conectado a outros elementos de importância.
+- Os demais nós, que estão mais próximos da cor branca, têm uma Eigenvector Centrality menor. Isso sugere que, apesar de suas conexões, a influência global desses nós pode ser menor em comparação com o Brazil. Eles podem não estar tão fortemente conectados a outros nós influentes na rede.
+- Essa análise destaca o papel central e a influência global do nó Brazil na rede, enquanto os outros nós podem ter uma influência mais limitada em comparação.
+
+
+
+
 
