@@ -13,7 +13,7 @@ Neste requisito, o objetivo é gerar uma rede (grafo) dirigida a partir dos link
 
 ## Código
 
-O código para este requisito está disponível em [código/requisito_01.py](https://github.com/yantvrs/Data_structure_2/blob/main/U2T3/Requisito_1/requisito_1.ipynb).
+O código para este requisito está disponível em [código/requisito_01.py](https://github.com/yantvrs/WikepediaPage/blob/main/Requisito_1/requisito_1.ipynb).
 
 ## Rede Final
 
